@@ -1,0 +1,21 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    width: 20rem;
+    gap: 1rem;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+}

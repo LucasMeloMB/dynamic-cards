@@ -1,0 +1,16 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    gap: 1rem;
+}
